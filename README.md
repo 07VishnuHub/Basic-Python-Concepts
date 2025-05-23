@@ -27,6 +27,7 @@ Addition:  15
 Subtraction:  5
 Multiplication:  50
 Division:  2.0
+```
 
 
 ## 👋 Task 2: Personalized Greeting Script
@@ -68,3 +69,4 @@ The goal of this task is to create a welcoming message using the user's first an
 Enter your first name: Vishnu
 Enter your last name: Kumar
 Hello, Vishnu Kumar! Welcome to the Python programming world.
+```
