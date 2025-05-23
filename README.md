@@ -29,13 +29,13 @@ Multiplication:  50
 Division:  2.0
 
 
-# 👋 Task 2: Personalized Greeting Script
+## 👋 Task 2: Personalized Greeting Script
 
 This simple Python script demonstrates basic string manipulation and user input handling. It collects a user's first and last name, then prints a friendly, personalized greeting.
 
 ---
 
-## 📄 Description
+### 📄 Description
 
 The goal of this task is to create a welcoming message using the user's first and last name. It's a great exercise for beginners learning:
 
@@ -45,7 +45,7 @@ The goal of this task is to create a welcoming message using the user's first an
 
 ---
 
-## 🧠 What You’ll Learn
+### 🧠 What You’ll Learn
 
 - Using `input()` to collect data from the user
 - Concatenating strings with `+`
@@ -53,7 +53,7 @@ The goal of this task is to create a welcoming message using the user's first an
 
 ---
 
-## 🚀 How It Works
+### 🚀 How It Works
 
 1. Prompts the user to enter their **first name**
 2. Prompts the user to enter their **last name**
@@ -62,7 +62,7 @@ The goal of this task is to create a welcoming message using the user's first an
 
 ---
 
-## 💻 Example Output
+### 💻 Example Output
 
 ```bash
 Enter your first name: Vishnu
